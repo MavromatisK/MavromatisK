@@ -6,21 +6,15 @@
 This is the place where I opensource stuff and break things 🤣
 
 - 🔭 I’m currently working on something really cool 😉
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate on more open source projects.
-- 💬 Ask me anything [here](https://github.com/MavromatisK/MavromatisK/issues) related to <b>Android application Development, Android Custom Operating System Development, Kotlin, Java, iOS Development, Swift, Javascript, Google App Script & Spring Boot, Security, Data JPA.</b>
-- 📫 How to reach me: [@MavromatisK][linkedin] or say 👋 on Email at [Konstantinos Mavromatis](mailto:MavromatisK@yahoo.com)
-- ⚡ Fun fact: I ❤️ 🐶s & ❤️ 🏍️
+- 💬 Ask me anything [here](https://github.com/MavromatisK/MavromatisK/issues) related to <b>Transport, Traffic, ITS, prototyping, integrations</b>
+- 📫 How to reach me: [@MavromatisK][linkedin] or say 👋 on Email at [Konstantinos Mavromatis](mailto:konstantinos.mavromatis@gmail.com)
+- ⚡ Fun fact: I ❤️🚴 & 🚆
 
 ### Connect with me:
 
 [<img align="left" alt="MavromatisK | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="MavromatisK | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="MavromatisK | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="MavromatisK | XDA Developers" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="MavromatisK | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="MavromatisK | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="MavromatisK | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 <br />
 
@@ -46,11 +40,6 @@ This is the place where I opensource stuff and break things 🤣
 
 ### 📊 GitHub Stats:
 ![Konstantinos Mavromatis's github stats](https://github-readme-stats.vercel.app/api?username=MavromatisK&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
-
-### 📕 Latest Blog posts:
-<!-- BLOG-POST-LIST:START -->
-- [Creating an Impressive GitHub Profile README](https://medium.com/@mr.MavromatisK/impressive-github-profile-readme-606e3b7b075d?source=rss-30c08688da0e------2)
-<!-- BLOG-POST-LIST:END -->
 
 [website]: -
 [linkedin]: https://www.linkedin.com/in/konstantinosmavromatis/
